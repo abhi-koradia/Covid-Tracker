@@ -1,4 +1,4 @@
-# React COVID Tracker
+COVID Tracker
 
 ## Features
 
